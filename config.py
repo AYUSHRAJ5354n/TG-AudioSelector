@@ -28,7 +28,7 @@ DOWNLOAD_DIR = "downloads"
 
 # Allowed group IDs
 ALLOWED_GROUP_IDS = [
-    ,  # Your group ID from logs
+    -1003245083716,  # Your group ID from logs
     # Add more group IDs as needed
 ]
 
